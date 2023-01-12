@@ -1,0 +1,11 @@
+E:\DevSkill-C#\Projects\NotePad-Csharp\NotePad-Csharp\bin\Debug\NotePad-Csharp.exe.config
+E:\DevSkill-C#\Projects\NotePad-Csharp\NotePad-Csharp\bin\Debug\NotePad-Csharp.exe
+E:\DevSkill-C#\Projects\NotePad-Csharp\NotePad-Csharp\bin\Debug\NotePad-Csharp.pdb
+E:\DevSkill-C#\Projects\NotePad-Csharp\NotePad-Csharp\obj\Debug\NotePad-Csharp.csproj.AssemblyReference.cache
+E:\DevSkill-C#\Projects\NotePad-Csharp\NotePad-Csharp\obj\Debug\NotePad-Csharp.csproj.SuggestedBindingRedirects.cache
+E:\DevSkill-C#\Projects\NotePad-Csharp\NotePad-Csharp\obj\Debug\NotePad_Csharp.Form1.resources
+E:\DevSkill-C#\Projects\NotePad-Csharp\NotePad-Csharp\obj\Debug\NotePad_Csharp.Properties.Resources.resources
+E:\DevSkill-C#\Projects\NotePad-Csharp\NotePad-Csharp\obj\Debug\NotePad-Csharp.csproj.GenerateResource.cache
+E:\DevSkill-C#\Projects\NotePad-Csharp\NotePad-Csharp\obj\Debug\NotePad-Csharp.csproj.CoreCompileInputs.cache
+E:\DevSkill-C#\Projects\NotePad-Csharp\NotePad-Csharp\obj\Debug\NotePad-Csharp.exe
+E:\DevSkill-C#\Projects\NotePad-Csharp\NotePad-Csharp\obj\Debug\NotePad-Csharp.pdb
